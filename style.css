@@ -1,0 +1,58 @@
+.margin{
+   margin-bottom: 200px;
+}
+.container{
+    display: flex;
+}
+body{
+    font-family: 'Arimo', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1 {text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+p {text-align: center;
+    color: white;
+}
+.button{
+    text-align: center;
+
+}
+#button-desing{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 800;
+}
+.background-image{
+    background-image: url(images/donation1.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#black{
+    color: black;
+    font-size: 50px;
+}
+.tk{
+    
+    width: 20%;
+    height: 30%;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: beige;
+    text-align: center;
+}
+#selected{
+    background-color: rgb(199, 175, 145);
+    border: 2px solid rgb(168, 121, 63);
+}
