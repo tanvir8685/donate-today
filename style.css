@@ -1,5 +1,9 @@
 .margin{
    margin-bottom: 200px;
+   margin-top: 20px;
+}
+.little-margin{
+    margin-bottom: 30px;
 }
 .container{
     display: flex;
@@ -43,6 +47,9 @@ p {text-align: center;
     color: black;
     font-size: 50px;
 }
+.black-small{
+    color: black;
+}
 .tk{
     
     width: 20%;
@@ -55,4 +62,24 @@ p {text-align: center;
 #selected{
     background-color: rgb(199, 175, 145);
     border: 2px solid rgb(168, 121, 63);
+}
+.input{
+    border:none;
+    border-bottom:1px solid black;
+    padding:60px 30px;
+}
+.donate-plan{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:2%;
+    border-radius: 10px;
+    background-color: bisque;
+}
+.middle{
+    text-align: center;
+    color: red;
+}
+footer{
+    background-color:black;
 }
