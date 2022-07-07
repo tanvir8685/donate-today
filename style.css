@@ -8,6 +8,7 @@
 .container{
     display: flex;
 }
+
 body{
     font-family: 'Arimo', sans-serif;
 font-family: 'Poppins', sans-serif;
@@ -74,12 +75,27 @@ p {text-align: center;
     margin-right: 5%;
     padding:2%;
     border-radius: 10px;
+ 
+}
+#bisque-clr{
     background-color: bisque;
+}
+#sky-blue{
+    background-color: skyblue;
+}
+#plum-clr{
+    background-color: plum;
 }
 .middle{
     text-align: center;
     color: red;
 }
+#white{
+    text-align: center;
+    color: white;
+
+}
 footer{
     background-color:black;
+    height: 80px;
 }
